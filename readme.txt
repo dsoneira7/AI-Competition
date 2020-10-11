@@ -2,8 +2,6 @@ Daniel Soneira Rama
 47434906M
 PSI1
 
-**I don't remember my account from the lab
-
  - To compile:
 
         javac -classpath jade.jar *.javac
